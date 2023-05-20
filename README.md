@@ -4,7 +4,7 @@
     <img src="https://github.com/Lolo280374/flappybird_pygame/raw/main/assets/sprites/flappy.ico" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Flappy Bird  • Python</h3>
+  <h3 align="center">flappyGPT</h3>
 
   <p align="center">
     Simple Flappy Bird game made with Python and pygame, and chatGPT 🚀🚀
