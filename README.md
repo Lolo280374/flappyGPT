@@ -91,6 +91,7 @@ python flappy_main.py
 ## Usage
 
 This project can be used as a fun game to just spare time, or as a baseplate to learning Python and pygame coding. You are allowed to modify the code to your liking, as soon as you keep credits to Lolo280374.
+<br/>
 The controls for the game are:
 * SPACE to jump
 * ESCAPE to pause (pipes will disappear)
