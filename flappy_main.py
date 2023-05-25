@@ -9,7 +9,7 @@ pygame.init()
 # Set up the display
 WIDTH, HEIGHT = 1600, 900
 display = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Flappy Bird · Made by Lolo28074 w/ chatGPT")
+pygame.display.set_caption("Flappy Bird · Made by Lolo280374 w/ chatGPT")
 
 # Load icon
 icon = pygame.image.load("assets/sprites/flappy.ico")
